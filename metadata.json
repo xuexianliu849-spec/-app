@@ -1,0 +1,6 @@
+{
+  "name": "HabitQuest",
+  "description": "习惯小勇士 — 专注于儿童与青少年习惯养成、任务打卡、极简专注计时及奖励兑换的多屏成长系统。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
